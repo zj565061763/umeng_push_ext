@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sd.lib.umeng_push_ext">
+
+    <application>
+
+        <meta-data
+            android:name="com.huawei.hms.client.appid"
+            android:value="@string/lib_umeng_push_ext_huawei_app_id" />
+
+        <meta-data
+            android:name="com.vivo.push.api_key"
+            android:value="@string/lib_umeng_push_ext_vivo_app_key" />
+        <meta-data
+            android:name="com.vivo.push.app_id"
+            android:value="@string/lib_umeng_push_ext_vivo_app_id" />
+
+    </application>
+
+</manifest>

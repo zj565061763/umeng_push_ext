@@ -1,0 +1,3 @@
+rootProject.name = "umeng_push_ext"
+include ':app'
+include ':lib'
